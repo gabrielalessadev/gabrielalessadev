@@ -4,4 +4,4 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalessadev&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true)
    ##
-![Snake animation](https://github.com/gabrielalessadev)
+![snake gif](https://github.com/gabrielalessadev/gabrielalessadev/blob/github-constribution-grid-snake.svg)
